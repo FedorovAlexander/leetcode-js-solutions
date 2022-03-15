@@ -1,3 +1,6 @@
+// Для решения задачи используем шаблон 2 указателя (итератора)
+// Подробнее о шаблонах: https://tproger.ru/translations/14-templates-to-answer-interview-questions/
+
 var removeDuplicates = function (nums) {
 	if (nums.length === 0) return 0;
 
