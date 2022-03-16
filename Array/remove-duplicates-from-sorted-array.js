@@ -1,3 +1,5 @@
+// Задача на leetcode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 // Для решения задачи используем шаблон 2 указателя (итератора)
 // Подробнее о шаблонах: https://tproger.ru/translations/14-templates-to-answer-interview-questions/
 
