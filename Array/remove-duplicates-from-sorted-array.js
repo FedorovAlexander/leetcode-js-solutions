@@ -1,4 +1,4 @@
-// Задача на leetcode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+// Задача на leetcode: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 
 // Для решения задачи используем шаблон 2 указателя (итератора)
 // Подробнее о шаблонах: https://tproger.ru/translations/14-templates-to-answer-interview-questions/
