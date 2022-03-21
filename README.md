@@ -8,3 +8,4 @@
 4. [Contains Duplicate](./Array/contains-duplicate.js)
 5. [Single Number](./Array/single-number.js)
 6. [Intersection of Two Arrays](./Array/intersection-of-two-arrays.js)
+7. [Plus One](./Array/plus-one.js)
