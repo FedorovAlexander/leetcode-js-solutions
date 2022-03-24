@@ -11,3 +11,8 @@
 7. [Plus One](./Array/plus-one.js)
 8. [Two Sum](./Array/two-sum.js)
 9. [Valid Sudoku](./Array/valid-sudoku.js)
+
+## Строки
+
+1. [Reverse String](./Strings/reverse-string.js)
+2. [Reverse Integer](./Strings/reverse-integer.js)
