@@ -16,3 +16,4 @@
 
 1. [Reverse String](./Strings/reverse-string.js)
 2. [Reverse Integer](./Strings/reverse-integer.js)
+3. [First Unique Character in a String](./Strings/first-unique-character-in-a-string.js)
