@@ -18,3 +18,4 @@
 2. [Reverse Integer](./Strings/reverse-integer.js)
 3. [First Unique Character in a String](./Strings/first-unique-character-in-a-string.js)
 4. [Valid Anagram](./Strings/valid-anagram.js)
+5. [Valid Palindrome](./Strings/valid-palindrome.js)
