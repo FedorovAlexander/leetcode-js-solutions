@@ -21,3 +21,4 @@
 5. [Valid Palindrome](./Strings/valid-palindrome.js)
 6. [String to Integer (atoi)](./Strings/string-to-integer.js)
 7. [Implement strStr()](./Strings/implement-strstr.js)
+8. [Longest Common Prefix](./Strings/longest-common-prefix.js)
