@@ -22,3 +22,7 @@
 6. [String to Integer (atoi)](./Strings/string-to-integer.js)
 7. [Implement strStr()](./Strings/implement-strstr.js)
 8. [Longest Common Prefix](./Strings/longest-common-prefix.js)
+
+## Связный список
+
+1. [Delete Node in a Linked List](./Linked_list/delete-node-in-a-linked-list.js)
