@@ -26,3 +26,4 @@
 ## Связный список
 
 1. [Delete Node in a Linked List](./Linked_list/delete-node-in-a-linked-list.js)
+2. [Remove Nth Node From the End of a Linked List](./Linked_list/delete-nth-node-from-the-end-of-linked-list.js)
