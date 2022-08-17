@@ -1,3 +1,4 @@
+// Задача на leetcode: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/
 // Algorithm :
 // Step 1> Create two pointers slow and fast,
 // Step 2> first move the fast pointer to the nth node.
