@@ -29,3 +29,5 @@
 2. [Remove Nth Node From the End of a Linked List](./Linked_list/delete-nth-node-from-the-end-of-linked-list.js)
 3. [Reverse Linked List](./Linked_list/reverse-linked-list.js)
 4. [Merge Two Sorted Lists](./Linked_list/merge-two-sorted-lists.js)
+5. [Linked List Cycle](./Linked_list/check-for-cycle.js)
+6. [Palindrome Linked List](./Linked_list/palindrome-linked-list.js)
