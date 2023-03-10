@@ -1,6 +1,6 @@
-# Алгоритмы и структуры данных. Решение задач с Leetcode.
+# Algorithms and Data Structures. Leetcode problems.
 
-## Массив
+## Arrays
 
 1. [Remove Duplicates from Sorted Array](./Array/remove-duplicates-from-sorted-array.js)
 2. [Best Time to Buy and Sell Stock-II](./Array/best-time-to-buy-and-sell-stock-II.js)
@@ -12,7 +12,7 @@
 8. [Two Sum](./Array/two-sum.js)
 9. [Valid Sudoku](./Array/valid-sudoku.js)
 
-## Строки
+## Strings
 
 1. [Reverse String](./Strings/reverse-string.js)
 2. [Reverse Integer](./Strings/reverse-integer.js)
@@ -22,8 +22,9 @@
 6. [String to Integer (atoi)](./Strings/string-to-integer.js)
 7. [Implement strStr()](./Strings/implement-strstr.js)
 8. [Longest Common Prefix](./Strings/longest-common-prefix.js)
+9. [Palindrome Number](./Strings/palindrome-number.js)
 
-## Связный список
+## Linked Lists
 
 1. [Delete Node in a Linked List](./Linked_list/delete-node-in-a-linked-list.js)
 2. [Remove Nth Node From the End of a Linked List](./Linked_list/delete-nth-node-from-the-end-of-linked-list.js)
