@@ -23,6 +23,7 @@
 7. [Implement strStr()](./Strings/implement-strstr.js)
 8. [Longest Common Prefix](./Strings/longest-common-prefix.js)
 9. [Palindrome Number](./Strings/palindrome-number.js)
+10. [Roman to Integer](./Strings/roman-to-integer.js)
 
 ## Linked Lists
 
