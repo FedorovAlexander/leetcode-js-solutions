@@ -24,6 +24,7 @@
 8. [Longest Common Prefix](./Strings/longest-common-prefix.js)
 9. [Palindrome Number](./Strings/palindrome-number.js)
 10. [Roman to Integer](./Strings/roman-to-integer.js)
+11. [Valid Parentheses](./Strings/valid-parentheses.js)
 
 ## Linked Lists
 
