@@ -35,3 +35,4 @@
 5. [Linked List Cycle](./Linked_list/check-for-cycle.js)
 6. [Palindrome Linked List](./Linked_list/palindrome-linked-list.js)
 7. [Remove Duplicates from Sorted List](./Linked_list/delete-duplicates.js)
+8. [Intersection of Two Linked Lists](./Linked_list/intersection-of-two-linked-lists.js)
