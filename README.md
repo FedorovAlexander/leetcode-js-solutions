@@ -34,3 +34,4 @@
 4. [Merge Two Sorted Lists](./Linked_list/merge-two-sorted-lists.js)
 5. [Linked List Cycle](./Linked_list/check-for-cycle.js)
 6. [Palindrome Linked List](./Linked_list/palindrome-linked-list.js)
+7. [Remove Duplicates from Sorted List](./Linked_list/delete-duplicates.js)
