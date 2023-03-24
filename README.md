@@ -38,3 +38,4 @@
 8. [Intersection of Two Linked Lists](./Linked_list/intersection-of-two-linked-lists.js)
 9. [Remove Linked List Elements](./Linked_list/remove-linked-list-elements.js)
 10. [Design HashSet](./Linked_list/design-hashset.js)
+11. [Design HashMap](./Linked_list/design-hashmap.js)
