@@ -39,3 +39,4 @@
 9. [Remove Linked List Elements](./Linked_list/remove-linked-list-elements.js)
 10. [Design HashSet](./Linked_list/design-hashset.js)
 11. [Design HashMap](./Linked_list/design-hashmap.js)
+12. [Middle of the Linked List](./Linked_list/middle-of-the-linked-list.js)
