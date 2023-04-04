@@ -43,3 +43,4 @@
 13. [Convert Binary Number in a Linked List to Integer](./Linked_list/convert-binary-number-in-a-linked-list-to-integer.js)
 14. [Add Two Numbers](./Linked_list/add-two-numbers.js)
 15. [Swap Nodes in Pairs](./Linked_list/swap-nodes-in-pairs.js)
+16. [Rotate List](./Linked_list/rotate-list.js)
