@@ -1,5 +1,16 @@
-// Задача на leetcode: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/
+// Problem on leetcode: https://leetcode.com/problems/reverse-linked-list/
 
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
 var reverseList = function (head) {
 	let prev = null;
 	let next = null;

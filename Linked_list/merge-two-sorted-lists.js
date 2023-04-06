@@ -1,10 +1,10 @@
-// leetcode: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/
+//Problem on leetcode: https://leetcode.com/problems/merge-two-sorted-lists/
 
 var mergeTwoLists = function (list1, list2) {
 	const dummy = new ListNode(-Infinity);
 	let prev = dummy;
 
-	while (list2 && list1) {
+	while (list1 && list2) {
 		if (list1.val <= list2.val) {
 			prev.next = list1;
 			prev = list1;
