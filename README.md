@@ -25,6 +25,7 @@
 9. [Palindrome Number](./Strings/palindrome-number.js)
 10. [Roman to Integer](./Strings/roman-to-integer.js)
 11. [Valid Parentheses](./Strings/valid-parentheses.js)
+12. [Length of Last Word](./Strings/last-word-length.js)
 
 ## Linked Lists
 
